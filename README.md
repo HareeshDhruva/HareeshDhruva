@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HareeshDhruva</h1>
 <h3 align="center">A passionate full-stack developer from Gayatri Vidya Parisad College of Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hareeshdheuva&label=Profile%20views&color=0e75b6&style=flat" alt="hareeshdheuva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hareeshdheuva&label=Profile%20views&color=0e75b6&style=flat" alt="hareeshdhruva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareeshdheuva" alt="hareeshdheuva" /></a> </p>
 
