@@ -1,28 +1,37 @@
 <h1 align="center">Hi 👋, I'M HAREESH DHRUVA</h1>
 <h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM INDIA</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hareeshdhruva&label=Profile%20views&color=0e75b6&style=flat" alt="hareeshdhruva" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareeshdhruva" alt="hareeshdhruva" /></a> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=hareeshdhruva&label=Profile%20views&color=0e75b6&style=flat"
+    alt="hareeshdhruva"
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img
+      src="https://github-profile-trophy.vercel.app/?username=hareeshdhruva"
+      alt="hareeshdhruva"
+    />
+  </a>
+</p>
 
-- 🔭 I’m currently studying at **Gayatri Vidya Parisad College of Engineering**
+ - 🔭 I’m currently studying at **Gayatri Vidya Parisad College of Engineering**
+   
+ - 🌱 I’m currently learning **Next js, Angular 2** - 👯 I’m looking to collaborate with **All**
+  
+ - 🤝 I’m looking for help with **OSM**
+   
+ - 👨‍💻 All of my projects are available at [https://hareeshdhruva.vercel.app](https://hareeshdhruva.vercel.app)
+   
+ - 💬 Ask me about **MERN** - 📫 How to reach me **hareeshdhruva123@gmail.com**
 
-- 🌱 I’m currently learning **Next js, Angular 2**
+ - 📄 Know about my experiences [https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing](https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing)
 
-- 👯 I’m looking to collaborate with **All**
+ - ⚡ Fun fact **I Think Iam Funny**
 
-- 🤝 I’m looking for help with **OSM**
+<h3 align="center">CONNECT WITH ME</h3>
 
-- 👨‍💻 All of my projects are available at [https://hareeshdhruva.vercel.app](https://hareeshdhruva.vercel.app)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **hareeshdhruva123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing](https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing)
-
-- ⚡ Fun fact **I Think Iam Funny**
-
- <h3 align="center">CONNECT WITH ME</h3>
-    <p align="center">
+<p align="center">
       <a
         href="https://www.linkedin.com/in/hareesh-dhruva-797240296/"
         target="_blank"
@@ -58,8 +67,8 @@
           width="40"
       /></a>
     </p>
-    
-  <h3 align="center">TOOLS AND TECHNOLOGIES</h3>
+
+<h3 align="center">TOOLS AND TECHNOLOGIES</h3>
     <p align="center">
       <a
         href="https://www.typescriptlang.org/"
@@ -214,22 +223,25 @@
         />
       </a>
     </p>
-  <p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hareeshdhruva&"
-        alt="hareeshdhruva"
-      />
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=hareeshdhruva&show_icons=true&locale=en"
-        alt="hareeshdhruva"
-      />
-    </p>
-    <p align="center">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hareeshdhruva&show_icons=true&locale=en&layout=compact"
-        alt="hareeshdhruva"
-      />
-  </p>
+</p>
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hareeshdhruva&"
+    alt="hareeshdhruva"
+  />
+</p>
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=hareeshdhruva&show_icons=true&locale=en"
+    alt="hareeshdhruva"
+  />
+</p>
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hareeshdhruva&show_icons=true&locale=en&layout=compact"
+    alt="hareeshdhruva"
+  />
+</p>
