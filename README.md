@@ -25,7 +25,9 @@
    
  - 👨‍💻 All of my projects are available at [Portfolio](https://hareeshdhruva.vercel.app)
    
- - 💬 Ask me about **MERN** - 📫 How to reach me **hareeshdhruva123@gmail.com**
+ - 💬 Ask me about **MERN**
+ 
+ - 📫 How to reach me **hareeshdhruva123@gmail.com**
 
  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing)
 
