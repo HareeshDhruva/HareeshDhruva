@@ -17,15 +17,17 @@
 
  - 🔭 I’m currently studying at **Gayatri Vidya Parisad College of Engineering**
    
- - 🌱 I’m currently learning **Next js, Angular 2** - 👯 I’m looking to collaborate with **All**
+ - 🌱 I’m currently learning **kubernetes, CICD pipeline & Microservices**
+ 
+ - 👯 I’m looking to collaborate with **All**
   
  - 🤝 I’m looking for help with **OSM**
    
- - 👨‍💻 All of my projects are available at [https://hareeshdhruva.vercel.app](https://hareeshdhruva.vercel.app)
+ - 👨‍💻 All of my projects are available at [Portfolio](https://hareeshdhruva.vercel.app)
    
  - 💬 Ask me about **MERN** - 📫 How to reach me **hareeshdhruva123@gmail.com**
 
- - 📄 Know about my experiences [https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing](https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing)
+ - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l0_sdhjSaPG1ntXwoTaDLNUNWDQ9dXL0/view?usp=sharing)
 
  - ⚡ Fun fact **I Think Iam Funny**
 
