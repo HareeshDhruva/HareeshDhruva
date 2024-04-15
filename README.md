@@ -6,15 +6,8 @@
     alt="hareeshdhruva"
   />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img
-      src="https://github-profile-trophy.vercel.app/?username=hareeshdhruva"
-      alt="hareeshdhruva"
-    />
-  </a>
-</p>
-
+<p>  
+  
  - 🔭 I’m currently studying at **Gayatri Vidya Parisad College of Engineering**
    
  - 🌱 I’m currently learning **kubernetes, CICD pipeline & Microservices**
@@ -34,6 +27,8 @@
  - ⚡ Fun fact **I Think Iam Funny**
 
 <h3 align="center">CONNECT WITH ME</h3>
+</p>
+
 
 <p align="center">
       <a
@@ -227,25 +222,4 @@
         />
       </a>
     </p>
-</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hareeshdhruva&"
-    alt="hareeshdhruva"
-  />
-</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=hareeshdhruva&show_icons=true&locale=en"
-    alt="hareeshdhruva"
-  />
-</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hareeshdhruva&show_icons=true&locale=en&layout=compact"
-    alt="hareeshdhruva"
-  />
 </p>
