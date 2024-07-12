@@ -22,7 +22,7 @@
  
  - 📫 How to reach me **hareeshdhruva123@gmail.com**
 
- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-XPbgyC9xfEIAWmUlaycQRa2nqksrFqi/view?usp=sharing)
+ - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y9vpQbGelOvv9q3pOYHbY04oSiUeD6zd/view?usp=sharing)
 
  - ⚡ Fun fact **I Think Iam Funny**
 
